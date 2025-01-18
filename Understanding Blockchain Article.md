@@ -29,3 +29,5 @@ For a transaction to be recorded on the blockchain, it needs to be verified by m
 
 [The Village Analogy](https://learn.xrpl.org/course/blockchain-and-crypto-basics/lesson/what-is-a-blockchain/)
 
+Derived from the [KUBI Notion Course](https://kublockchain.notion.site/Introduction-to-Blockchain-be22d9131a8d4d71b93a36d4501ad1c1) by Hannah Smith
+
